@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Surafel Fisseha</h1>
 <h3 align="center">A passionate frontend developer from Ethiopia 😎</h3>
 
-<p align="center">
+<!--<p align="center">
   <img src="https://komarev.com/ghpvc/?username=surafel9&label=Profile%20views&color=0e75b6&style=flat" alt="surafel9" />
-</p>
+</p>--->
 
 ## 💫 About Me:
 - 🔭 I’m currently working on **Front-end Development**
@@ -34,10 +34,10 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-## 🏆 GitHub Trophies
+<!--## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=surafel9&theme=darkhub&no-frame=true&no-bg=true&margin-w=15" />
-</p>
+</p>-->
 
 ## 📊 GitHub Stats:
 <p align="center">
@@ -46,10 +46,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surafel9&theme=ayu-mirage&hide_border=false&layout=compact&langs_count=8" alt="Top Languages" />
 </p>
 
-## 🐍 Watch my contributions graph get eaten by the snake
+<!--## 🐍 Watch my contributions graph get eaten by the snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/surafel9/surafel9/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+</p>--->
 
 ---
 
