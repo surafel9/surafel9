@@ -6,7 +6,7 @@
 </p>--->
 
 ## 💫 About Me:
-- 🔭 I’m currently working on **Front-end Development**
+- 🔭 I’m currently working on **Front-end Development** 
 - 🤝 I’m looking to collaborate on **Web Development projects**
 - 📫 Wanna chat? Reach me at [surafel.fiss@gmail.com](mailto:surafel.fiss@gmail.com)
 
