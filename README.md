@@ -4,11 +4,7 @@
 <!--<p align="center">
   <img src="https://komarev.com/ghpvc/?username=surafel9&label=Profile%20views&color=0e75b6&style=flat" alt="surafel9" />
 </p>--->
-
-## 💫 About Me:
-- 🔭 I’m currently working on **Front-end Development** 
-- 🤝 I’m looking to collaborate on **Web Development projects**
-- 📫 Wanna chat? Reach me at [surafel.fiss@gmail.com](mailto:surafel.fiss@gmail.com)
+**👋 Hello world! I'm Surafel, a Front-End developer from Ethiopia. I love turning ideas into real websites and apps. I started coding out of curiosity and have been learning by building and improving projects ever since. I focus on clean design, solving problems, and always pushing myself to grow. When I'm not coding, I explore new tech and think about building smarter tools.**
 
 ## 🌐 Connect with me:
 <p align="center">
