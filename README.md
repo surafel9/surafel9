@@ -8,13 +8,21 @@
 
 ## 🌐 Connect with me:
 <p align="center">
-  <a href="https://www.linkedin.com/in/surafel-fisseha-877039307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/SURAFEL_FISSEHA?t=oSWgPCJpXLdoJK1nCW6HSA&s=35" target="blank">
-    <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" />
+  <a href="https://www.linkedin.com/in/surafel-fisseha-877039307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
+  </a>&nbsp;
+  <a href="https://x.com/SURAFEL_FISSEHA?t=oSWgPCJpXLdoJK1nCW6HSA&s=35" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="X" width="40" height="40" />
+  </a>&nbsp;
+  <a href="mailto:surafel.fiss@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email" width="40" height="40" />
   </a>
 </p>
+
+
+
+
+
 
 ## 💻 Tech Stack and Tools:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60" />&nbsp;
