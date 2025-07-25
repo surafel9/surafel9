@@ -1,4 +1,4 @@
-<h1 align="center">Yo yo! Surafel Fisseha in the house 🙌</h1>
+<h1 align="center">Yo yo! Surafel in the house 🙌</h1>
 
 
 <!--<p align="center">
