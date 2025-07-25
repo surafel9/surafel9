@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Surafel Fisseha</h1>
-<h3 align="center">A passionate frontend developer from Ethiopia 😎</h3>
+<h1 align="center">Yo yo! Surafel Fisseha in the house 🙌</h1>
+
 
 <!--<p align="center">
   <img src="https://komarev.com/ghpvc/?username=surafel9&label=Profile%20views&color=0e75b6&style=flat" alt="surafel9" />
@@ -49,12 +49,19 @@
   <img src="https://github-profile-trophy.vercel.app/?username=surafel9&theme=darkhub&no-frame=true&no-bg=true&margin-w=15" />
 </p>-->
 
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=surafel9&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=surafel9&theme=ayu-mirage&hide_border=false" alt="GitHub Streak" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surafel9&theme=ayu-mirage&hide_border=false&layout=compact&langs_count=8" alt="Top Languages" />
-</p>
+<!-- 📊 GitHub Stats:
+-->
+<div align="center">
+  
+# Statistics <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="50" > 
+
+| Stats | Top Languages | Streak |
+| :---: | :-----------: | :----: |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=surafel9&show_icons=true&theme=radical&count_private=true&hide_rank=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surafel9&layout=compact&theme=radical) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=surafel9&theme=radical) |
+
+</div>
+
+
 
 <!--## 🐍 Watch my contributions graph get eaten by the snake
 <p align="center">
