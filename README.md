@@ -1,4 +1,5 @@
-<h1 align="center">Yo yo! Surafel in the house 🙌</h1>
+<!-- <h1 align="center">Yo yo! Surafel in the house 🙌</h1>--->
+
 
 
 <!--<p align="center">
@@ -10,7 +11,10 @@
   </a>
 </div>
 
-**👋 Selam! I'm Surafel, a Front-End developer from Ethiopia. I love turning ideas into real websites and apps. I started coding out of curiosity and have been learning by building and improving projects ever since. I focus on clean design, solving problems, and always pushing myself to grow. When I'm not coding, I explore new tech and think about building smarter tools.**
+
+> **👋 Selam! I'm Surafel, a Front-End developer from Ethiopia. I love turning ideas into real websites and apps. I started coding out of curiosity and have been learning by building and improving projects ever since. I focus on clean design, solving problems, and always pushing myself to grow. When I'm not coding, I explore new tech and think about building smarter tools.** !
+
+<!-- **👋 Selam! I'm Surafel, a Front-End developer from Ethiopia. I love turning ideas into real websites and apps. I started coding out of curiosity and have been learning by building and improving projects ever since. I focus on clean design, solving problems, and always pushing myself to grow. When I'm not coding, I explore new tech and think about building smarter tools.** -->
 
 
 ## 🌐 Connect with me:
