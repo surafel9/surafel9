@@ -12,9 +12,9 @@
 </div>
 
 
-> **👋 Selam! I'm Surafel, a Front-End developer from Ethiopia. I love turning ideas into real websites and apps. I started coding out of curiosity and have been learning by building and improving projects ever since. I focus on clean design, solving problems, and always pushing myself to grow. When I'm not coding, I explore new tech and think about building smarter tools.** !
+ > **👋 Selam! I'm Surafel, a Front-End developer.**
 
-<!-- **👋 Selam! I'm Surafel, a Front-End developer from Ethiopia. I love turning ideas into real websites and apps. I started coding out of curiosity and have been learning by building and improving projects ever since. I focus on clean design, solving problems, and always pushing myself to grow. When I'm not coding, I explore new tech and think about building smarter tools.** -->
+  **🚀 Building ideas pixel by pixel, code by code. From Ethiopia to your screen — I craft interactive experiences, explore tech frontiers, and turn curiosity into creation. Let's make the web smarter, together.**
 
 
 ## 🌐 Connect with me:
