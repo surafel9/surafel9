@@ -12,7 +12,7 @@
 </div>
 
 
- > **👋 Selam! I'm Surafel, a Front-End developer.**
+ > **Front-End developer.**
 
   **🚀 Building ideas pixel by pixel, code by code. From Ethiopia to your screen — I craft interactive experiences, explore tech frontiers, and turn curiosity into creation. Let's make the web smarter, together.**
 
