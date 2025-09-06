@@ -12,9 +12,11 @@
 </div>
 
 
- > **Front-End developer.**
+ > **Front-End developer**
 
-  **🚀 Building ideas pixel by pixel, code by code. From Ethiopia to your screen — I craft interactive experiences, explore tech frontiers, and turn curiosity into creation. Let's make the web smarter, together.**
+   
+  **👋 Hey, I'm Surafel Fisseha <br>
+🚀 I build ideas pixel by pixel, code by code. From Ethiopia to your screen, I craft interactive experiences, explore new tech frontiers, and turn curiosity into creation. Let's make the web smarter, together!**
 
 
 ## 🌐 Connect with me:
