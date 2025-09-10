@@ -19,34 +19,33 @@
 🚀 I build ideas pixel by pixel, code by code. From Ethiopia to your screen, I craft interactive experiences, explore new tech frontiers, and turn curiosity into creation. Let's make the web smarter, together!**
 
 
-## 🌐 Connect with me:
+<h3 align="center">🌐 Connect with me:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/surafel-fisseha-877039307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
-  </a>&nbsp;
-  <a href="https://x.com/SURAFEL_FISSEHA?t=oSWgPCJpXLdoJK1nCW6HSA&s=35" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="X" width="40" height="40" />
-  </a>&nbsp;
-  <a href="mailto:surafel.fiss@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email" width="40" height="40" />
+  <a href="https://www.linkedin.com/in/surafel-fisseha-877039307" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" />
+  </a>
+  <a href="https://x.com/SURAFEL_FISSEHA" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="X" height="40" />
+  </a>
+  <a href="mailto:surafel.fiss@gmail.com" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="40" />
   </a>
 </p>
 
+<br>
 
-
-
-
-
-## 💻 Tech Stack and Tools:
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60" />&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60" />&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="60" height="60" />&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="60" height="60" />&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="60" height="60" />&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="60" height="60" />&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60" />&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60" />&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="60" height="60" />
+<h3 align="center">💻 Tech Stack and Tools:</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" height="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" height="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" height="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="60" />
+</p>
 
 
 
